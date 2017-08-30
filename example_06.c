@@ -84,7 +84,7 @@ int main()
 	//types "how are you?"
 	stringToScreen("execute code..",enabled_gpio);
 	sleep(2.0);
-	while (count<5)
+	while (count<900)
 	{	
 	//wait 2 seconds and return to first line
 //		initialize_Screen(enabled_gpio,selectedPins);
